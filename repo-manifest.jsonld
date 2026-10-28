@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-transformers/commit/2442e8c15152d1a7f66e90f07642baf87dba65f3",
       "git:hexsha": "2442e8c15152d1a7f66e90f07642baf87dba65f3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "release-v2.0.1"
     },
     {

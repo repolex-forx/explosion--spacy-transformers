@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-transformers",
+  "versions": [
+    {
+      "commit": "2442e8c15152d1a7f66e90f07642baf87dba65f3",
+      "tag": "release-v2.0.1",
+      "parsed_at": "2026-10-28T12:10:55.872295+00:00"
+    }
+  ]
+}
